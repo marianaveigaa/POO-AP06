@@ -1,5 +1,7 @@
 # POO-AP06
 
+📂 Estrutura do Projeto
+
 📦ConsoleApp
 
 ├── 📂Data
